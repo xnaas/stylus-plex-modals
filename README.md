@@ -1,6 +1,4 @@
 # Stylus Plex Modals
-This Stylus theme increases the size of Plex metadata editing modals. 
-
 ## Requirements
 Requires [Stylus](https://github.com/stylus/stylus) extension.
 
