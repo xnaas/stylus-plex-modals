@@ -2,17 +2,22 @@
 @name          Plex: Larger Modals
 @namespace     github.com/xnaas/stylus-plex-modals
 @homepageURL   https://github.com/xnaas/stylus-plex-modals
-@version       1.0.2
+@version       1.0.3
 @updateURL     https://raw.githubusercontent.com/xnaas/stylus-plex-modals/master/stylus-plex-modals.user.css
 @description   Increases the size of Plex metadata editing modals.
 @author        xnaas
+
+@var number max_height "Height (px)" [600, "px"]
 ==/UserStyle== */
 
-@-moz-document domain("app.plex.tv"), regexp("https:\\/\\/plex\\.[a-z]+\\.[a-z]+\\/web\\/index\\.html.*"), domain("localhost:32400"), domain("127.0.0.1:32400") {
+@-moz-document domain("app.plex.tv"),
+regexp("https:\\/\\/plex\\.[a-z]+\\.[a-z]+\\/web\\/index\\.html.*"),
+domain("localhost:32400"),
+domain("127.0.0.1:32400") {
   .modal-body-scroll {
-    max-height: 650px;
+    max-height: var(--max_height);
   }
   .modal-body-with-panes .modal-body-pane {
-    height: 650px;
+    height: var(--max_height);
   }
 }
