@@ -3,8 +3,8 @@
 Requires [Stylus](https://github.com/stylus/stylus) extension.
 
 ## Images
-### Before
-![img](https://xnaas.info/tmp/dVA.webp)
+### smol
+![smol](https://xnaas.info/tmp/epz.webp)
 
-### After
-![after](https://xnaas.info/tmp/Dc8.webp)
+### YUGE
+![YUGE](https://xnaas.info/tmp/Ofq.webp)

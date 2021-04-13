@@ -2,9 +2,9 @@
 @name          Plex: Larger Modals
 @namespace     github.com/xnaas/stylus-plex-modals
 @homepageURL   https://github.com/xnaas/stylus-plex-modals
-@version       1.0.3
+@version       1.0.4
 @updateURL     https://raw.githubusercontent.com/xnaas/stylus-plex-modals/master/stylus-plex-modals.user.css
-@description   Increases the size of Plex metadata editing modals.
+@description   Resize Plex metadata editing modals. 
 @author        xnaas
 
 @var number max_height "Height (px)" [600, "px"]
