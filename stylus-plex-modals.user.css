@@ -1,0 +1,24 @@
+/* ==UserStyle==
+@name          Plex: Larger Modals
+@namespace     github.com/xnaas/stylus-plex-modals
+@homepageURL   https://github.com/xnaas/stylus-plex-modals
+@version       1.0.0
+@updateURL     https://raw.githubusercontent.com/xnaas/stylus-plex-modals/master/stylus-plex-modals.user.css
+@description   Increases the size of Plex metadata editing modals.
+@author        xnaas
+==/UserStyle== */
+
+@-moz-document domain("app.plex.tv"), regexp("https:\\/\\/plex\\.[a-z]+\\.[a-z]+\\/web\\/index\\.html.*") {
+body {
+  background: #282a36;
+  color: #f8f8f2;
+}
+
+a {
+  color: #8be9fd;
+}
+
+a:visited {
+  color: #bd93f9;
+}
+}
