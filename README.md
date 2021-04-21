@@ -4,7 +4,7 @@ Requires [Stylus](https://github.com/stylus/stylus) extension.
 
 ## Images
 ### smol
-![smol](https://xnaas.info/tmp/epz.webp)
+![smol](http://web.archive.org/web/20210413182921if_/https://xnaas.info/tmp/epz.webp)
 
 ### YUGE
-![YUGE](https://xnaas.info/tmp/Ofq.webp)
+![YUGE](http://web.archive.org/web/20210413182926if_/https://xnaas.info/tmp/Ofq.webp)
